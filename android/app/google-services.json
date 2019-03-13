@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "251979643025",
+    "firebase_url": "https://ecommercetut.firebaseio.com",
+    "project_id": "ecommercetut",
+    "storage_bucket": "ecommercetut.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251979643025:android:f6deebc0f90ddb30",
+        "android_client_info": {
+          "package_name": "mindfulentity.marektingapp.com.shopapptutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251979643025-e4rb5kg0vv4v32aq8j832oogeib2empq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mindfulentity.marektingapp.com.shopapptutorial",
+            "certificate_hash": "59bd47b0514075e0ec8dd2249da36301c5addcc0"
+          }
+        },
+        {
+          "client_id": "251979643025-baqgcda6msq4qcjv9jdkvtef1e74bugq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5kf_h0iTZR1tNckF-lUph6TR1UF77VrM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "251979643025-baqgcda6msq4qcjv9jdkvtef1e74bugq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
