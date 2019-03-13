@@ -1,4 +1,4 @@
-# shopapp_tutorial
+# shopapp
 
 A new Flutter application.
 
